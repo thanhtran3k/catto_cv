@@ -41,12 +41,6 @@ class App extends Component {
     this.getResumeData();
   }
 
-  updateInputValue(event) {
-    this.setState({
-      inputValue: event.target.value
-    });
-  }
-
   render() {
     console.log('data: ', this.state.resumeData);
     return (
