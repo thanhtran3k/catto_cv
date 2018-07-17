@@ -1,0 +1,178 @@
+{
+  "main": {
+    "name": "Thanh Tran",
+    "occupation": "Fresher Fullstack Javascript developer",
+    "description": "creating awesome and effective websites for companies of all sizes around the hooman world.",
+    "image": "profilepic.jpg",
+    "bio": "I am going to tell you more about me. Actually, I'm just a lone catto in a hooman community who is wandering around the world, developing websites to make money to fix everything i ruined like the sofa in the living room, a laptop of my friend, ect... And buy catfoods and catnips.",
+    "email": "thanh.tran3k@gmail.com",
+    "phone": "(+84)96 358 61 88",
+    "address": {
+      "street": "66/xx Tran Van Quang, Ward 10, Tan Binh District",
+      "city": "Ho Chi Minh",
+      "state": "East Laox Empire",
+      "zip": "VN 700000"
+    },
+
+    "website": "localhost:3000",
+    "resumedownload": "https://drive.google.com/file/d/10NCztMqnXhJC0nw2_NvqPlfZvVUWHDjG/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/thanhtran3k",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/thanhtran3k",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "skype",
+        "url": "https://www.skype.com/en/",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Local high school",
+        "degree": "Finished High school (12/12) with Above Average degree.",
+        "graduated": "July 201x",
+        "description": "Just a normal catto, went to school like everyone else in this world, nothing much to tell. Nothing special, no girlfriends, no kids, lived in a peaceful life with no regrets."
+      },
+      {
+        "school": "NIIT University",
+        "degree": "Just a developer",
+        "graduated": "June 201x",
+        "description": "Still that normal catto, but he can do the website developing now, he's still waiting for a job to fix things in the past. Nothing special, no girlfriends until now, no kids of course, living in a peaceful life with a lot of regrets but it's fine."
+      }
+    ],
+    "work": [
+      {
+        "company": "Self Work Company",
+        "title": "Fresher Fullstack Developer",
+        "years": "June 2015 - Present",
+        "description": "Catto tried to find a job to do but he didn't know anything, so he tried to learn everything on the internet but it made no sense, he was a noob after all. In the last 2 years in the University, a light came through his head like a starfall. He learnt Node.js and React and worked so hard with them. He created a lot of projects with their helps."
+      },
+      {
+        "company": "X Company - X is a mystery",
+        "title": "Fresher Fullstack Developer",
+        "years": "July 2018 - Future",
+        "description": "After 3 (or 4) years, Catto has to go to work. He can work with Node.js and React now. Give him a chance to improve himself as a fullstack developer. Well, why not, give him a try."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Backend",
+        "level": "55%"
+      },
+      {
+        "name": "Front-end",
+        "level": "40%"
+      },
+      {
+        "name": "Database",
+        "level": "43%"
+      }
+    ]
+  },
+
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Scatify",
+        "description":"Scatify is an album summary website, all the album in Scatify is recommended by Catto.",
+        "category":"NodeJS, Firebase",
+        "tags":"Web Development",
+        "image":"fish.jpg",
+        "url":"https://facebook.com/thanhtran3k",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Cattone",
+        "description":"Cattone is a personal blog, Cattone was made by NodeJS and Express.",
+        "category":"NodeJS, MongoDB",
+        "tags":"Web Development",
+        "image":"noodles.jpg",
+        "url":"https://facebook.com/thanhtran3k",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Catto Portfolio",
+        "description":"Just a portfolio website was made by NodeJS but using different database. Nothing much.",
+        "category":"NodeJS, MySQL",
+        "tags":"Web Development",
+        "image":"stores.jpg",
+        "url":"https://facebook.com/thanhtran3k",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Catto.io",
+        "description":"Basic chat application using NodeJS and Socket.io",
+        "category":"NodeJS, Socket.io",
+        "tags":"Web Development",
+        "image":"watch_dogs.jpg",
+        "url":"https://facebook.com/thanhtran3k",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"countdown",
+        "description":"Do you want to countdown to your birthday or Holiday?",
+        "category":"ReactJS, JSX",
+        "tags":"Web Design",
+        "image":"comfy.jpg",
+        "url":"https://facebook.com/thanhtran3k",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"countdownToLNY",
+        "description":"Count down to Lunar New Year to know the time to go home.",
+        "category":"ReactJS, JSX",
+        "tags":"Graphic Design",
+        "image":"city.jpg",
+        "url":"https://facebook.com/thanhtran3k",
+        "modal":"#modal-06"
+      },
+      {
+        "title":"Catto_contact",
+        "description":"Well, additional for the contact function bellow.",
+        "category":"NodeJS",
+        "tags":"Web Development",
+        "image":"mall.jpg",
+        "url":"https://facebook.com/thanhtran3k",
+        "modal":"#modal-07"
+      },
+      {
+        "title":"Not a project",
+        "description":"Hey, do you want to play a game?",
+        "category":"Gaming",
+        "tags":"Dota 2, CS:GO, Stardew Valley,...",
+        "image":"computer.jpg",
+        "url":"https://steamcommunity.com/id/childishcatto/",
+        "modal":"#modal-08"
+      }
+    ]
+  },
+
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Sống không vì mình, trời tru đất diệt",
+        "user":"Someone on earth"
+      }
+    ]
+  }
+
+}
