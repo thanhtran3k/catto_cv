@@ -51,7 +51,7 @@ class Portfolio extends Component {
 
              <div className="seven columns">
                 <h2><span className="lead">Hover on one of them</span></h2>
-                <p><span className="lead">Check out the summary of my works by hovering on the image above. Pixel arts come from an artist on steam.</span></p>
+                <p><span className="lead">Check out the summary of my works by hovering on one of those images. Pixel arts come from an artist on steam.</span></p>
              </div>
 
              <div className="three columns action">
